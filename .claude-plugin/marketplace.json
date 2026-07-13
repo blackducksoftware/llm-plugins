@@ -8,7 +8,7 @@
   },
   "plugins": [
     {
-      "name": "blackduck-sca",
+      "name": "blackduck-bdsca",
       "description": "Black Duck SCA tools for vulnerability analysis, component scanning, and compliance reporting",
       "version": "0.9.4",
       "author": {
