@@ -1,5 +1,5 @@
 {
-  "name": "llm-plugins",
+  "name": "blackduck-llm-plugins",
   "metadata": {
     "description": "Black Duck SCA tools for vulnerability analysis, component scanning, and compliance reporting"
   },
@@ -26,7 +26,11 @@
         "open source security",
         "software risk management"
       ],
-      "source": "blackducksoftware/sca-llm-plugin/claude-plugin-bdsca",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://blackducksoftware/sca-llm-plugin.git",
+        "path": "claude-plugin-bdsca"
+      },
       "strict": true
     }
   ]
