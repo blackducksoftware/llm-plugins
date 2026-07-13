@@ -1,0 +1,33 @@
+{
+  "name": "llm-plugins",
+  "metadata": {
+    "description": "Black Duck SCA tools for vulnerability analysis, component scanning, and compliance reporting"
+  },
+  "owner": {
+    "name": "Black Duck Software, Inc."
+  },
+  "plugins": [
+    {
+      "name": "blackduck-sca",
+      "description": "Black Duck SCA tools for vulnerability analysis, component scanning, and compliance reporting",
+      "version": "0.9.4",
+      "author": {
+        "name": "Black Duck Software, Inc.",
+        "url": "https://www.blackduck.com/"
+      },
+      "keywords": [
+        "black duck",
+        "sca",
+        "software composition analysis",
+        "vulnerability analysis",
+        "component scanning",
+        "compliance reporting",
+        "software supply chain security",
+        "open source security",
+        "software risk management"
+      ],
+      "source": "blackducksoftware/sca-llm-plugin/claude-plugin-bdsca",
+      "strict": true
+    }
+  ]
+}
