@@ -28,7 +28,7 @@
       ],
       "source": {
         "source": "git-subdir",
-        "url": "https://github.com/blackducksoftware/sca-llm-plugin.git",
+        "url": "https://github.com/blackducksoftware/sca-llm-plugins.git",
         "path": "claude-plugin-bdsca"
       },
       "strict": true
