@@ -1,0 +1,37 @@
+README.md
+  s_f3a88f971a0e74::t_21a2ee6c38b779 34
+  s_f3a88f971a0e74::t_74f6079ae0ff79 36
+  s_f3a88f971a0e74::t_240fe257ccc398 54-69
+  h_987739b2b77f2c 21,23,26,31,39,41-42
+  s_f3a88f971a0e74::t_95d5c64d4e0323 35
+  s_f3a88f971a0e74::t_5c8023e548f1d5 33
+  s_f3a88f971a0e74::t_c4e900f14508fb 53
+  h_987739b2b77f2c 10,28,37-38,40
+.claude-plugin/marketplace.json
+  s_f3a88f971a0e74::t_91f24af2a066f9 36,39-46,48-58,60-61
+  s_f3a88f971a0e74::t_d9c13c65702854 47
+  h_987739b2b77f2c 37-38
+  s_f3a88f971a0e74::t_4ec92e74d7bb13 35
+  s_f3a88f971a0e74::t_579d178ca9e1fd 59
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "8af0f32f77152252e2e66a6820414acf9e879f21",
+  "prompts": {},
+  "humans": {
+    "h_987739b2b77f2c": {
+      "author": "Bogdan Mihaila <bmihaila@blackduck.com>"
+    }
+  },
+  "sessions": {
+    "s_f3a88f971a0e74": {
+      "agent_id": {
+        "tool": "github-copilot-jetbrains",
+        "id": "1793707198534",
+        "model": "unknown"
+      },
+      "human_author": "Bogdan Mihaila <bmihaila@blackduck.com>"
+    }
+  }
+}
