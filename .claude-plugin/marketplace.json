@@ -32,6 +32,33 @@
         "path": "claude-plugin-bdsca"
       },
       "strict": true
+    },
+    {
+      "name": "blackduck-bdba",
+      "description": "Black Duck Binary SCA tools for vulnerability analysis, component scanning, and compliance reporting",
+      "version": "0.11.1",
+      "author": {
+        "name": "Black Duck Software, Inc.",
+        "url": "https://www.blackduck.com/"
+      },
+      "keywords": [
+        "black duck",
+        "sca",
+        "binary analysis",
+        "software composition analysis",
+        "vulnerability analysis",
+        "component scanning",
+        "compliance reporting",
+        "software supply chain security",
+        "open source security",
+        "software risk management"
+      ],
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/blackducksoftware/sca-llm-plugins.git",
+        "path": "claude-plugin-bdba"
+      },
+      "strict": true
     }
   ]
 }
