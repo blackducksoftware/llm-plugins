@@ -6,7 +6,7 @@ A collection of plugins, skills, and tools for AI coding agents to connect to Bl
 
 | Plugin                                                                                                   | Description                                                         |
 |----------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------|
-| **[bdsca](https://github.com/blackducksoftware/sca-llm-plugin/tree/main/claude-plugin-bdsca/README.md)** | Black Duck Software Composition Analysis plugin with MCP and skills |
+| **[bdsca](https://github.com/blackducksoftware/sca-llm-plugins/tree/main/claude-plugin-bdsca/README.md)** | Black Duck Software Composition Analysis plugin with MCP and skills |
 
 See each plugin's README for detailed features, usage, and examples.
 
