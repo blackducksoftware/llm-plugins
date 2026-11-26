@@ -7,7 +7,6 @@ A collection of plugins, skills, and tools for AI coding agents to connect to Bl
 | Plugin                                                                                                   | Description                                                         |
 |----------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------|
 | **[bdsca](https://github.com/blackducksoftware/sca-llm-plugins/tree/main/claude-plugin-bdsca/README.md)** | Black Duck Software Composition Analysis plugin with MCP and skills |
-| **[bdba](https://github.com/blackducksoftware/sca-llm-plugins/tree/main/claude-plugin-bdba/README.md)** | Black Duck Binary Analysis plugin with MCP and skills |
 
 See each plugin's README for detailed features, usage, and examples.
 
@@ -30,9 +29,7 @@ claude
 
 3. Install a plugin:
 ```bash
-# install the plugin for your product, or both
 /plugin install blackduck-bdsca@blackduck-llm-plugins
-/plugin install blackduck-bdba@blackduck-llm-plugins
 /reload-plugins
 ```
 
